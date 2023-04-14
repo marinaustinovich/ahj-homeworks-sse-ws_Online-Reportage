@@ -1,5 +1,7 @@
 [![Build status](https://ci.appveyor.com/api/projects/status/yn6ycnuwux3kvesc/branch/main?svg=true)](https://ci.appveyor.com/project/marinaustinovich/ahj-homeworks-sse-ws-online-reportage/branch/main)
 
+deployment: https://marinaustinovich.github.io/ahj-homeworks-sse-ws_Online-Reportage/
+
 ## Онлайн-репортаж
 
 ### Легенда
